@@ -19,7 +19,7 @@ I enjoy owning products end-to-end - from clean UI experiences to scalable backe
 
 ## ⭐ Featured Projects
 
-### 🏛 Better Gondia Mitra — Civic Complaint Management Platform (Production)
+### 🏛 Better Gondia Mitra - Civic Complaint Management Platform (Production)
 **Next.js • Prisma • PostgreSQL • WhatsApp Webhook • RBAC**
 
 A production civic-tech grievance platform enabling citizens to submit complaints via **Web + WhatsApp**, with role-based dashboards used by government stakeholders.
@@ -34,7 +34,7 @@ A production civic-tech grievance platform enabling citizens to submit complaint
 
 ---
 
-### 💬 Pulse — Social Media Platform with Realtime Chat
+### 💬 Pulse - Social Media Platform with Realtime Chat
 **Next.js • PostgreSQL • Prisma • Optimistic UI • Media Uploads**
 
 A modern social platform with trending feeds, realtime messaging, discovery search, and smooth UX polish.
@@ -48,7 +48,7 @@ A modern social platform with trending feeds, realtime messaging, discovery sear
 
 ---
 
-### 🧠 Code Arena — Competitive Coding Contest Platform (System Design Project)
+### 🧠 Code Arena - Competitive Coding Contest Platform (System Design Project)
 **React • Node.js • Redis • WebSockets • Worker Queue**
 
 A Codeforces-style contest platform featuring realtime leaderboards and async judge-worker evaluation pipelines.
