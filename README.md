@@ -29,8 +29,8 @@ A production civic-tech grievance platform enabling citizens to submit complaint
 - 🔐 Role-based admin workflows for departments and stakeholders
 - 📎 Media uploads + complaint tracking + public support portal
 
-🔗 Live: https://better-gondia-bot.vercel.app/  
-🔗 Repo: https://github.com/Dheeraj-Manwani/better-gondia-bot  
+🔗 Live: https://gms.bydm.site/  
+🔗 Repo: https://github.com/Dheeraj-Manwani/gms-better-gondia
 
 ---
 
@@ -72,13 +72,6 @@ A Codeforces-style contest platform featuring realtime leaderboards and async ju
 
 ---
 
-## 📌 What I’m Focused On
-
-- Building scalable backend systems (queues, caching, observability)
-- Shipping polished product experiences with realtime features
-- Remote-first engineering with strong ownership and communication
-
----
 
 ## 🌍 Open to Remote Opportunities
 
